@@ -39,4 +39,5 @@ body{
 p{
     font-size: 15px;
     line-height: 25px;
+    opacity: 0.7;
 }
